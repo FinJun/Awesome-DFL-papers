@@ -21,7 +21,7 @@ DFL (Decision Focused Learning) is a new framework designed to enhance performan
 
 ## Papers
      
-|  Date  |       keywords        |    Author                    |Paper                                                                                                                                                                                                                                                        |Publication        
+|  Date  |       keywords        |    Author                    |Paper                                                                                                                                                                                                                                                        |     Publication        
                   |
 | :-----: | :------------------: | :----------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-----------------------------------------------------------: |
 |  2019 |     C.O     |      Bryan Wilder et al.                   | [Melding the Data-Decisions Pipeline: Decision-Focused Learning for Combinatorial Optimization](https://arxiv.org/abs/1809.05504)                                                                                                                                            |           AAAI <br> [Github](https://github.com/bwilder0/aaai_melding_code)|
