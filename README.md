@@ -1,6 +1,6 @@
 # Awesome-DFL-papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-                                                                                !<img width="603" alt="spo" src="https://github.com/FinJun/Awesome-DFL-papers/assets/76249916/8e0ba391-af89-45cf-a2ea-155225bf9183">
+!<p align="center"><img width="603" alt="spo" src="https://github.com/FinJun/Awesome-DFL-papers/assets/76249916/8e0ba391-af89-45cf-a2ea-155225bf9183"></p>
 
 DFL (Decision Focused Learning) is a new framework designed to enhance performance in downstream optimization tasks through prediction. Instead of simply reducing the prediction error, it focuses on minimizing the decision error. I am currently researching in this field, and I created this repository to share interesting and excellent papers on DFL for other researchers and practitioners.
 
