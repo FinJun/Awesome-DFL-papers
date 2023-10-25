@@ -5,7 +5,7 @@ DFL (Decision Focused Learning) is a new framework designed to enhance performan
 ## Table of Contents
 
 
-- [Awesome-DFL]
+- [Awesome-DFL](#Awesome-DFL-papers)
   - [Papers](#Papers)
 
 
