@@ -11,7 +11,7 @@ DFL (Decision Focused Learning) is a new framework designed to enhance performan
 
 ## Papers
 
-|  Date  |       keywords       |    Author   |                                                                           Paper                                                                                                            | Publication |
+|  Date  |       keywords       |    Author              |                                                                           Paper                                              | Publication |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
 | 2012-01 |     SPO     |      Adam N. Elmachtoub, Paul Grigas      | [Smart "Predict, then Optimize"]([https://arxiv.org/pdf/1706.03762.pdf](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3922))                                                                                                                      |   Management Science |
 
