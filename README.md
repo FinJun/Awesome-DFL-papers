@@ -13,7 +13,10 @@ DFL (Decision Focused Learning) is a new framework designed to enhance performan
 
 |  Date  |       keywords       |    Author              |                                                                           Paper                                              | Publication |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| 2012-01 |     SPO     |      Adam N. Elmachtoub, Paul Grigas      | [Smart "Predict, then Optimize"]([https://arxiv.org/pdf/1706.03762.pdf](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3922))                                                                                                                      |   Management Science |
+|  2019 |     C.O     |      Bryan Wilder et al.     | [Melding the Data-Decisions Pipeline: Decision-Focused Learning for Combinatorial Optimization](https://arxiv.org/abs/1809.05504)                                                                    |           AAAI <br>! [Github](https://github.com/bwilder0/aaai_melding_code)          |
+|  2021 |     SPO     |      Adam N. Elmachtoub, Paul Grigas      | [Smart "Predict, then Optimize"]([https://arxiv.org/pdf/1706.03762.pdf](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3922))                                                     |      Management Science <br>! [Github](https://github.com/paulgrigas/SmartPredictThenOptimize)  |
+|  2022 |     LTR     |      Jayanta Mandi et al.     | [Decision-Focused Learning: Through the Lens of Learning to Rank](https://icml.cc/virtual/2022/spotlight/18376)                                                                                     |   ICML Spotlight <br>! [Github](https://github.com/jayman91/ltr-predopt) |
+|  2022 |   Pytorch   |      Bo Tang, Elias B. Khalil     | [PyEPO: A Pytorch-based End-to-End Predict-then-Optimize Library for Linear and Interger Programming](https://arxiv.org/abs/2206.14234)                                                         |   aXirv <br>! [Github](https://github.com/khalil-research/PyEPO) |
 
 
 
@@ -22,7 +25,3 @@ DFL (Decision Focused Learning) is a new framework designed to enhance performan
 
 
 
-- [Smart "Predict, then Optimize"](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3922), [2021 Management Science] [[[github]]](https://github.com/paulgrigas/SmartPredictThenOptimize)
-- [Decision-Focused Learning: Through the Lens of Learning to Rank](https://icml.cc/virtual/2022/spotlight/18376), [ICML 2022 Spotlight]
-- [Melding the Data-Decisions Pipeline: Decision-Focused Learning for Combinatorial Optimization](https://arxiv.org/abs/1809.05504), [AAAI 2019]
-- [PyEPO: A Pytorch-based End-to-End Predict-then-Optimize Library for Linear and Interger Programming](https://arxiv.org/abs/2206.14234), [arXiv] [[[github]]](https://github.com/khalil-research/PyEPO) 
