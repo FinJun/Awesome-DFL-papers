@@ -26,22 +26,6 @@
 
 **Decision-Focused Learning (DFL)** is an emerging paradigm that integrates machine learning with downstream optimization tasks. Unlike traditional two-stage approaches that minimize prediction error, DFL directly minimizes **decision regret** — the suboptimality of decisions made using predicted parameters.
 
-```
-┌─────────────┐      ┌─────────────┐      ┌─────────────┐
-│   Features  │ ──▶  │  Predictor  │ ──▶  │  Optimizer  │ ──▶  Decision
-│      x      │      │    f(x;θ)   │      │   z*(ĉ)     │
-└─────────────┘      └─────────────┘      └─────────────┘
-                            │                    │
-                            └────────────────────┘
-                              End-to-End Training
-                            (Minimize Decision Loss)
-```
-
-### 🔑 Key Challenges
-- **Zero/Undefined Gradients**: Solutions to optimization problems are often piecewise constant
-- **Computational Cost**: Solving optimization in every training iteration is expensive  
-- **Combinatorial Structure**: Discrete solutions require special handling
-
 ---
 
 ## 📚 Papers
