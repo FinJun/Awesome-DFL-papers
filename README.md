@@ -39,6 +39,7 @@
 | 2020 | NeurIPS | [Interior Point Solving for LP-based prediction+optimisation](https://arxiv.org/pdf/2010.13943) | `LP` `Interior Point` | [![GitHub](https://img.shields.io/github/stars/JayMan91/NeurIPSIntopt?style=social)](https://github.com/JayMan91/NeurIPSIntopt) |
 | 2024 | NeurIPS | [BPQP: A Differentiable Convex Optimization Framework for Efficient End-to-End Learning](https://arxiv.org/pdf/2411.19285) | `QP` `ADMM` `Efficient` | [![GitHub](https://img.shields.io/github/stars/jmp41/BPQP?style=social)](https://github.com/jmp41/BPQP) |
 | 2025 | NeurIPS | [Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/pdf/2410.06324) | `QP` `Black-box` `Modular` | [![GitHub](https://img.shields.io/github/stars/cwmagoon/dQP?style=social)](https://github.com/cwmagoon/dQP) |
+| 2026 | ICML | [Decision-Focused Learning via Tangent-Space Projection of Prediction Error](https://arxiv.org/pdf/2605.01361) | `QP` `KKT` `Active Set` `Projection` | [![GitHub](https://img.shields.io/github/stars/FinJun/PEAR?style=social)](https://github.com/FinJun/PEAR) |
 
 ### 📉 Surrogate Loss Methods
 *Designing tractable loss functions that provide informative gradients for training.*
