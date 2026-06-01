@@ -30,8 +30,8 @@
 
 ## 📚 Papers
 
-### 📐 Differentiable Optimization Layers
-*Embedding optimization problems as neural network layers with exact or approximate gradients.*
+### 📐 KKT-based Regret Gradient
+*Methods that obtain exact (or efficient) regret gradients by differentiating the optimization problem's KKT conditions*
 
 | Year | Venue | Paper | Keywords | Code |
 |:----:|:-----:|:------|:--------:|:----:|
